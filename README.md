@@ -1,5 +1,8 @@
 # Integration - Maps:
 
+## Code:
+Available upon request (patrick_li@brown.edu or patrickli2021@gmail.com)
+
 ## Project Details
 - This project is a full stack web application that allows users and developers to exercise 3 main uses/functionalities:
     - Users can view a map of a particular area that they’re interested in at any zoom level
